@@ -1,0 +1,27 @@
+{
+  "userinfo": [
+    {
+      "id": "3207",
+      "name": "ajay",
+      "Place": "U.S.A",
+      "email": "jack123@gmail.com",
+      "password": "8799"
+    },
+    {
+      "id": "0ef2",
+      "name": "Saif",
+      "Place": "U.S.A",
+      "email": "asifc9312@gmail.com",
+      "password": "8799"
+    },
+    {
+      "name": "user2",
+      "Place": "mumbai new",
+      "email": "user2@gmail.com",
+      "password": "123",
+      "id": "49ac"
+    }
+  ],
+  "category": [],
+  "brands": []
+}
